@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/187161.jpg);
+}
+.download-icon a{
+
+    display: inline-block;
+	background: transparent;
+	border: 2px solid rgb(6, 247, 38);
+	padding: 9px 28px;
+	border-radius: 30px;
+	line-height: 1.3;
+	color: rgb(0, 0, 0);
+    font-weight: 500;
+    position: relative;
+    padding: 9px 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+.download-icon a:hover{
+    transition: .5s;
+    background-color: aqua;
+
+}
+img{
+    position: relative;
+    margin-left: 42.5%;
+    
+}
+.resume a{
+    margin-right: 20%;
+    display: inline-block;
+	background: transparent;
+	border: 2px solid rgb(6, 247, 38);
+	padding: 9px 28px;
+	border-radius: 20px;
+	line-height: 0.5;
+	color: rgb(0, 0, 0);
+    font-weight: 500;
+    position: relative;
+    padding: 9px 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+.resume a:hover{
+    transition: .4s;
+    background-color: cornflowerblue;
+}
