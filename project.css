@@ -6,7 +6,7 @@
 	text-decoration: none;
 }
 body{
-	overflow: scroll;
+	overflow: none;
 }
 .main-width{
 	width: 1280px;
